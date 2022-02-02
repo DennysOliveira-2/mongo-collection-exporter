@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-export-collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MongoExportCollection.js",
+  "type": "module",
+  "scripts": {
+    "example": "node Example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "mongoose": "^6.1.9"
+  }
+}
